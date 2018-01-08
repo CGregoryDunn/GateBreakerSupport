@@ -1,2 +1,2 @@
 # GateBreakerSupport
-The Support Page for Gate Breaker. 
+The support page for Gate Breaker. 
